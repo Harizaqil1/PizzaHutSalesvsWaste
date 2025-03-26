@@ -1,4 +1,4 @@
-# ** *TOPIC:Pizza Hut Sales vs Waste** **
+# *TOPIC:Pizza Hut Sales vs Waste*
 
 # FSC Group Presentation
 Restaurant - Cost vs Sales by Date &amp; Food Type
