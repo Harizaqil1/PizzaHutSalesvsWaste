@@ -111,11 +111,11 @@ From here we can identify key variables, and clean the dataset.
 
 ## Conclusion
 The Pizza Hut performance dashboard reveals key insights into sales trends, customer demographics, and regional performance. The data indicates that:
-✅ Desserts and Main Course are top-performing food categories, primarily driven by the Adult (20-59) age group.
-✅ Snacks are underperforming, suggesting potential growth opportunities through targeted marketing or product bundling.
-✅ Geographically, Perak, Kuala Lumpur, and Johor lead in sales, while Kedah and Malacca show room for improvement.
-✅ Sales correlate positively with costs, but certain high-cost instances may signal inefficiencies requiring further investigation.
-✅ Waste levels are concerning in Desserts and Beverages, warranting improved inventory control or production planning.
+   ✅ Desserts and Main Course are top-performing food categories, primarily driven by the Adult (20-59) age group.
+   ✅ Snacks are underperforming, suggesting potential growth opportunities through targeted marketing or product bundling.
+   ✅ Geographically, Perak, Kuala Lumpur, and Johor lead in sales, while Kedah and Malacca show room for improvement.
+   ✅ Sales correlate positively with costs, but certain high-cost instances may signal inefficiencies requiring further investigation.
+   ✅ Waste levels are concerning in Desserts and Beverages, warranting improved inventory control or production planning.
 
 ### Final Recommendation
    ➔ To enhance Pizza Hut's performance, strategies should focus on:
