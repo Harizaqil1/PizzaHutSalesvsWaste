@@ -1,6 +1,6 @@
 # *TOPIC:Pizza Hut Sales vs Waste*
 
-I am doing this analysis for a job interview as Data Analyst Role in FSC Group. 
+This analysis for a job interview as Data Analyst Role in FSC Group. 
 ---
 
 ### **Data Understanding Questions**
