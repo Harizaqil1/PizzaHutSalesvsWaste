@@ -56,36 +56,48 @@ From here we can identify key variables, and clean the dataset.
 
    1. **Sales Trends by Date**
    ![image009](https://github.com/user-attachments/assets/36483d2d-970a-4eea-8418-edcd1e846738)
+
+
    The date filter indicates Q2 2024 data is selected.
-   There’s flexibility to explore data from 2023 to 2025, suggesting trend analysis across multiple periods is          possible.
+   There’s flexibility to explore data from 2023 to 2025, suggesting trend analysis across multiple periods is possible.
    To understand seasonality or major sales peaks, exploring quarterly trends could reveal valuable insights.
    
-   2. **Sales vs Cost**
+   3. **Sales vs Cost**
    ![image007](https://github.com/user-attachments/assets/7f8046b4-342e-4eb6-8e31-436241afba2b)
+
+
    The scatter plot shows a positive correlation between sales and cost.
-   The red dotted line indicates a possible non-linear relationship, where higher costs may yield diminishing           returns.
+   The red dotted line indicates a possible non-linear relationship, where higher costs may yield diminishing returns.
    Outliers on the upper end of costs may suggest potential inefficiencies or overspending.
 
-   3. **Sales by Food Category vs Age Group**
+   5. **Sales by Food Category vs Age Group**
    ![image006](https://github.com/user-attachments/assets/809a02d1-8109-4237-bebf-11229718a4d7)
+
+
    Adults (20-59) are the biggest contributors across multiple food categories.
    Desserts and Main Course are strong performers.
    Sales for Snacks are lower across all age groups.
    
-   4. **Geographic Sales Distribution**
+   7. **Geographic Sales Distribution**
    ![image010](https://github.com/user-attachments/assets/c25ce7be-de7b-48b6-b496-3c27e8bd4efc)
-   The heatmap shows that West Malaysia regions are driving the majority of sales, particularly in Johor, Kuala         Lumpur, and Selangor.
+
+
+   The heatmap shows that West Malaysia regions are driving the majority of sales, particularly in Johor, Kuala Lumpur, and Selangor.
    East Malaysia appears to have minimal or no data, indicating low presence or weak sales in that region.
    
-   5. **Sales Breakdown by State**
+   9. **Sales Breakdown by State**
    ![image011](https://github.com/user-attachments/assets/7b629808-aa97-45b8-bc25-7662cddb151b)
+
+
    Perak stands out with the highest sales, followed closely by Kuala Lumpur and Johor.
    All states show consistent levels of sales, with no extreme outliers.
    
-   6. **Sales vs Waste Analysis**
+   11. **Sales vs Waste Analysis**
    ![image008](https://github.com/user-attachments/assets/03a5b221-10cb-4caf-a317-0f02e4d1494c)
+
+
    Beverages and Desserts generate the highest sales but also show higher waste levels.
-   The correlation between sales and waste appears consistent across most categories, except for Main Course, which     shows a dip in waste despite good sales performance.
+   The correlation between sales and waste appears consistent across most categories, except for Main Course, which shows a dip in waste despite good sales performance.
    
 
 3. Challenges
